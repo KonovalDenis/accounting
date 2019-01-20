@@ -25,7 +25,7 @@ SECRET_KEY = '39ez=0@qje8v@6#hu7b*2fvokl%gk8d6j2+ef_+b)&x!mu3y8p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djangovue.pythonanywhere.com', 'localhost']
 
 
 # Application definition
